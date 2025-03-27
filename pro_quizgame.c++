@@ -427,31 +427,31 @@ class final_score {
     if (dt.TS == 15 )
     {
         cout<<"--> Your grade AA." <<endl;
-        cout<<"--> OMG , i can't beleved this , dil jit liya tune " <<dt.name <<endl <<endl;
+        cout<<"--> Outstanding Perfomence" <<dt.name <<endl <<endl;
     }
     else if (dt.TS == 13 || dt.TS == 14 )
     {
         cout<<"--> Your grade is A+." <<endl;
-        cout<<"--> You got 7 core " <<dt.name <<endl <<endl;
+        cout<<"--> Exelent " <<dt.name <<endl <<endl;
     }
     else if (dt.TS == 11 || dt.TS == 12 )
     {
         cout<<"--> Your grade is A." <<endl;
-        cout<<"--> Bhut badiya " <<dt.name <<endl <<endl;
+        cout<<"--> Very Good " <<dt.name <<endl <<endl;
     }
     else if (dt.TS == 9 || dt.TS == 10 )
     {
         cout<<"--> Your grade is B+."<<endl;
-        cout<<"--> Chal tikh thak hain " <<dt.name <<endl <<endl;
+        cout<<"--> Good " <<dt.name <<endl <<endl;
     }
     else if (dt.TS == 7 || dt.TS == 8 )
     {
-        cout<<"--> Your grade is B."<<endl;
+        cout<<"--> Not bad "<<endl;
         cout<<"--> Utna bhi acha nehi " <<dt.name <<endl <<endl ;
     }
     else if (dt.TS == 5 || dt.TS == 6 )
     {
-        cout<<"--> Your grade is C." <<endl;
+        cout<<"--> Very bad " <<endl;
         cout<<"--> Padhai karle thoda " <<dt.name <<endl <<endl ;
     }
     else
