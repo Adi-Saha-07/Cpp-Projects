@@ -1,10 +1,23 @@
-Hi, I'm Adi 👋
+# C++ Mini Projects Collection 🧑‍💻
 
-I'm a Computer Science student at Jaypee University Anoopshahr passionate about coding, technology, and software development . 🚀
+This repository contains a collection of small C++ projects created for learning and practice purposes. Each project covers basic to intermediate concepts of C++ like functions, loops, conditionals, and object-oriented programming. 🚀
+ 
+## 📂 Projects 
 
-🔭 Currently working on: C++ Projects
-🌱 Learning: Data Structures, Python
-👯 Looking to collaborate on: Open-source beginner-friendly projects
-⚡ Fun fact: I love Bengali sweets 🍬
+# pro_quizgame.cpp :
+A simple quiz game where users can answer questions and get a score.
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adittya-saha-1913622ab)
+# advance_calculator.cpp :
+A calculator that performs basic operations (+, -, *, /) along with advanced functions like power and square root.
+
+# pro_makeresult.cpp :
+A result management system that generates and displays student marksheets.
+
+# pro_password.cpp :
+A basic password generator and checker application.
+
+# pro_calculator.cpp :
+A simple calculator for basic arithmetic operations.
+
+# pro_hostel.cpp :
+A hostel management system for managing student entries and details.
