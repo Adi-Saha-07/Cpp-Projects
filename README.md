@@ -4,20 +4,24 @@ This repository contains a collection of small C++ projects created for learning
  
 ## 📂 Projects 
 
-# pro_quizgame.cpp :
+# quiz_game.cpp :
 A simple quiz game where users can answer questions and get a score.
 
 # advance_calculator.cpp :
 A calculator that performs basic operations (+, -, *, /) along with advanced functions like power and square root.
 
-# pro_makeresult.cpp :
+# result_craft.cpp :
 A result management system that generates and displays student marksheets.
 
-# pro_password.cpp :
+# password_system.cpp :
 A basic password generator and checker application.
 
-# pro_calculator.cpp :
+# calculator.cpp :
 A simple calculator for basic arithmetic operations.
 
-# pro_hostel.cpp :
+# hostel_module.cpp :
 A hostel management system for managing student entries and details.
+
+# attendance_system.cpp :
+A simple Attendance Management System to record, manage, and view student attendance.  
+Built using C++ for academic purposes at Jaypee University Anoopshahr.
