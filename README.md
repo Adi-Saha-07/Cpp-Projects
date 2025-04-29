@@ -24,4 +24,3 @@ A hostel management system for managing student entries and details.
 
 # attendance_system.cpp :
 A simple Attendance Management System to record, manage, and view student attendance.  
-Built using C++ for academic purposes at Jaypee University Anoopshahr.
