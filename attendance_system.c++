@@ -58,15 +58,15 @@ class attendence : public data_type {
                 }
     
                 cout<<endl<<endl;
-                cout << "\nAttendance summary:\n\n";
+                cout << "\nAttendance summary " <<group  <<" students "<<endl<<endl;
     
                 for (int i = 1 ; i <= totalStudents1; i++) 
                 {
-                    cout<<" Roll number " <<i <<": " << attend[i];
+                    cout<<" Roll number " <<i <<" : " << attend[i];
                     cout<<endl;
                 }
                 cout<<endl;
-                cout<<" Total student presrnt :" <<present;
+                cout<<" Total student presrnt : " <<present;
             }
     
             if(group=="a2")
@@ -88,15 +88,15 @@ class attendence : public data_type {
                 }
     
                 cout<<endl<<endl;
-                cout << "\nAttendance summary:\n\n";
+                cout << "\nAttendance summary " <<group  <<" students "<<endl<<endl;
     
                 for (int i = 31 ; i <= totalStudents2; i++) 
                 {
-                    cout<<" Roll number " <<i <<": " << attend[i];
+                    cout<<" Roll number " <<i <<" : " << attend[i];
                     cout<<endl;
                 }
                 cout<<endl;
-                cout<<" Total student presrnt :" <<present;
+                cout<<" Total student presrnt : " <<present;
             }
     
             if(group=="a3")
@@ -118,15 +118,15 @@ class attendence : public data_type {
                 }
     
                 cout<<endl<<endl;
-                cout << "\nAttendance summary:\n\n";
+                cout << "\nAttendance summary " <<group << " students "<<endl<<endl;
     
                 for (int i = 61 ; i <= totalStudents3; i++) 
                 {
-                    cout<<" Roll number " <<i <<": " << attend[i];
+                    cout<<" Roll number " <<i <<" : " << attend[i];
                     cout<<endl;
                 }
                 cout<<endl;
-                cout<<" Total student presrnt :" <<present;
+                cout<<" Total student presrnt : " <<present;
             }
     
             if(group=="a4") 
@@ -148,15 +148,15 @@ class attendence : public data_type {
                 }
     
                 cout<<endl<<endl;
-                cout << "\nAttendance summary:\n\n";
+                cout << "\nAttendance summary " <<group  <<" students "<<endl<<endl;
     
                 for (int i = 91 ; i <= totalStudents4; i++) 
                 {
-                    cout<<" Roll number " <<i <<": " << attend[i];
+                    cout<<" Roll number " <<i <<" : " << attend[i];
                     cout<<endl;
                 }
                 cout<<endl;
-                cout<<" Total student presrnt :" <<present;
+                cout<<" Total student presrnt : " <<present;
             }
     
             if(group=="ALL" || group=="all") 
@@ -178,11 +178,11 @@ class attendence : public data_type {
                 }
     
                 cout<<endl<<endl;
-                cout << "\nAttendance summary:\n\n";
+                cout << "\nAttendance summary " <<group  <<" students "<<endl<<endl;
     
                 for (int i = 1 ; i <= totalStudents5; i++) 
                 {
-                    cout<<" Roll number " <<i <<": " << attend[i];
+                    cout<<" Roll number " <<i <<" : " << attend[i];
                     cout<<endl;
                 }
     
@@ -190,13 +190,14 @@ class attendence : public data_type {
                 cout<<" Total student present : " <<present;
         
             }
+            
             break;
         }
 
         else 
 
         {
-          cout<<" Enter valid option." <<endl;
+          cout<<" Enter valid option. " <<endl;
         }
       }
     } 
