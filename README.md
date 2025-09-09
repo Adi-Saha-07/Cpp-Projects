@@ -12,18 +12,3 @@ This project is a simple Rock, Paper, Scissors game where the user plays against
 
 # advance_calculator.cpp :
 A calculator that performs basic operations (+, -, *, /) along with advanced functions like power and square root.
-
-# attendance_system.cpp :
-A simple Attendance Management System to record, manage, and view student attendance.  
-
-# result_craft.cpp :
-A result management system that generates and displays student marksheets.
-
-# password_system.cpp :
-A basic password generator and checker application.
-
-# calculator.cpp :
-A simple calculator for basic arithmetic operations.
-
-# hostel_module.cpp :
-A hostel management system for managing student entries and details.
